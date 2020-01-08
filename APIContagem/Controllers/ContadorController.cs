@@ -23,7 +23,7 @@ namespace APIContagem.Controllers
                 {
                     _CONTADOR.ValorAtual,
                     Environment.MachineName,
-                    Local = "GitHub - Teste Build e Deployment Automatizado - FC Nuvem 1",
+                    Local = "GitHub - Teste Build e Deployment Automatizado - FC Nuvem 2...",
                     Sistema = Environment.OSVersion.VersionString,
                     Variavel = configuration["TesteAmbiente"],
                     TargetFramework = Assembly
